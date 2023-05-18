@@ -16,10 +16,10 @@ Beyond my professional life, I achieved Q certification in 2020, allowing me to 
 
 
 ### Publications and Technical Reports
-* **[DeepCoffee : Coffee Flavors Prediction Using Deep Learning](https://andy-lzh.github.io/files/TPAMI_CLIP_Path.pdf)**  
- Zhengfeng Lai, Joohi Chauhan, **Zhuoheng Li**, Luca Cerny Oliveira, Brittany N. Dugger, Chen-Nee Chuah
+* **[Path-CLIP: Efficient Adaptation of CLIP for Pathology Image Analysis with Limited Data](https://andy-lzh.github.io/files/TPAMI_CLIP_Path.pdf)**  
+ Zhengfeng Lai, Joohi Chauhan, **Zhuoheng Li**, Luca Cerny Oliveira, Brittany N. Dugger, Chen-Nee Chuah; 
   *Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence*
 
 * **[DeepCoffee : Coffee Flavors Prediction Using Deep Learning](https://andy-lzh.github.io/files/ECS_289G_Final_Paper.pdf)**  
- Manisha Sri Suresh, **Zhuoheng Li**
+ Manisha Sri Suresh, **Zhuoheng Li**; 
   *Technical report for ECS 289G Final Project*
