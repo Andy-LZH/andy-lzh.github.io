@@ -6,8 +6,8 @@ main:
   - title: "Projects"
     url: /portfolio/
 
-  - title: "Blog"
-    url: https://medium.com/@pipli
-
   - title: "Talks"
     url: /talks/
+
+  - title: "Blog"
+    url: https://medium.com/@pipli
