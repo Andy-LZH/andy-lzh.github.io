@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Resume"
+    url: https://andy-lzh.github.io/files/Zhuoheng_Li_Resume.pdf
 
   - title: "Projects"
     url: /portfolio/
