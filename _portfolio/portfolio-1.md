@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Deep Coffee"
+excerpt: "Predict specialty coffee flavor with fine-tuned GPT-3<br/><img src='images/deep_coffee.png'>"
 collection: portfolio
 ---
 
