@@ -1,13 +1,10 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /portfolio/
+  - title: "Resume/CV"
+    url: https://andy-lzh.github.io/files/Zhuoheng_Li_CV.pdf
 
   - title: "Talks"
     url: /talks/
 
   - title: "Blog"
     url: https://medium.com/@pipli
-
-  - title: "Resume/CV"
-    url: https://andy-lzh.github.io/files/Zhuoheng_Li_CV.pdf
