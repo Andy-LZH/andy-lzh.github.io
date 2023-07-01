@@ -26,11 +26,8 @@ Beyond my professional life, I achieved Q certification in 2020, allowing me to 
 
 ### Projects
 * **[RoastPic](https://biggest-sphere-489964.framer.app/)**  
-  *Software Engineering Lead, Founding Member*  
-  RoastPic is a Computer Vision Startup established by [Prof. William Ristenpart](https://coffeecenter.ucdavis.edu/people/william-ristenpart). We are building a mobile app that can assess the quality of coffee beans using Computer Vision and Machine Learning. I am responsible for the development of the backend and the deployment of the app. I also lead the development of the iOS and Android App and the design of the database.   
-  *Technologies used: Python, Django, AWS(ECS, ECR, S3), Docker, MongoDB Atlas, React Native*
+  *Founding Member*  
+  We are building a mobile app that can assess the quality of coffee beans using Computer Vision and Machine Learning.
 
 * **[DeepCoffee](https://andy-lzh.github.io/DeepCoffee/)**  
-  *Researcher*  
-  DeepCoffee is a project that aims to predict the flavors of coffee beans using GPT-3 text-davinci-002. I am responsible for the development of the model and the deployment of the app.  
-  *Technologies used: Python, PyTorch, TypeScript, OpenAI, React.js, Material UI*
+  DeepCoffee is a project that aims to predict the flavors of coffee beans using GPT-3 text-davinci-002. I am responsible for the development of the model and the deployment.
