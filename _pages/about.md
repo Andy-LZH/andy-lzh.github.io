@@ -25,7 +25,7 @@ Beyond my professional life, I achieved Q certification in 2020, allowing me to 
   *Technical report for ECS 289G Final Project*
 
 ### Projects
-* **[RoastPic](https://biggest-sphere-489964.framer.app/)**  
+* **RoastPic**  
   *Founding Member*  
   We are building a mobile app that can assess the quality of coffee beans using Computer Vision and Machine Learning.
 
