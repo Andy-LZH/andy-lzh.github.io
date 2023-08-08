@@ -16,9 +16,9 @@ Beyond my professional life, I achieved Q certification in 2020, allowing me to 
 
 
 ### Publications and Technical Reports
-* **[Path-CLIP: Efficient Adaptation of CLIP for Pathology Image Analysis with Limited Data](https://andy-lzh.github.io/files/TPAMI_CLIP_Path.pdf)**  
- Zhengfeng Lai, Joohi Chauhan, **Zhuoheng Li**, Luca Cerny Oliveira, Brittany N. Dugger, Chen-Nee Chuah; 
-  *Under Review by IEEE Transactions on Pattern Analysis and Machine Intelligence*
+* **CLIPath: Fine-tune CLIP with Visual Feature Fusion for Pathology Image Analysis Towards Minimizing Data Collection Efforts**  
+ Zhengfeng Lai, **Zhuoheng Li**, Luca Cerny Oliveira, Joohi Chauhan, Brittany N. Dugger, Chen-Nee Chuah; 
+ *ICCV 2023 Workshop on Computer Vision for Automated Medical Diagnosis (CVAMD)*
 
 * **[DeepCoffee : Coffee Flavors Prediction Using Deep Learning](https://andy-lzh.github.io/files/ECS_289G_Final_Paper.pdf)**  
  Manisha Sri Suresh, **Zhuoheng Li**; 
