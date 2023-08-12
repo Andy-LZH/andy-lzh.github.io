@@ -16,11 +16,11 @@ Beyond my professional life, I achieved Q certification in 2020, allowing me to 
 
 
 ### Publications and Technical Reports
-* **CLIPath: Fine-tune CLIP with Visual Feature Fusion for Pathology Image Analysis Towards Minimizing Data Collection Efforts**  
+* **[CLIPath: Fine-tune CLIP with Visual Feature Fusion for Pathology Image Analysis Towards Minimizing Data Collection Efforts](https://andy-lzh.github.io/files/ICCVW23_CVAMD_CLIPath.pdf)**  
  Zhengfeng Lai, **Zhuoheng Li**, Luca Cerny Oliveira, Joohi Chauhan, Brittany N. Dugger, Chen-Nee Chuah; 
  *ICCV 2023 Workshop on Computer Vision for Automated Medical Diagnosis (CVAMD)*
 
-* **[DeepCoffee : Coffee Flavors Prediction Using Deep Learning](https://andy-lzh.github.io/files/ECS_289G_Final_Paper.pdf)**  
+* **[DeepCoffee : Coffee Flavors Prediction Using Deep Learning](https://andy-lzh.github.io/files/ECS_289G_Final_Report.pdf)**  
  Manisha Sri Suresh, **Zhuoheng Li**; 
   *Technical report for ECS 289G Final Project*
 
