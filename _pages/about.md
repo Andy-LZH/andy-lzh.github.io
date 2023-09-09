@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm thrilled that you've discovered my page. As a undergraduate student majoring in CS at UC Davis, I will be graduated in Spring 2024. My research interests lie in the areas of Computer Vision, Multi-Modality Learning, and Semi-Supervised Learning. Presently, my focus is centered around Few-Shot Domain Adaptations in Vision-Language Models, and MLOps that bring Neural Networks to production.
+Welcome! I'm excited to have you on my profile. I'm an undergraduate Computer Science major at UC Davis, set to graduate in Spring 2024. My research interests encompass Computer Vision, Multi-Modality Learning, and Domain Adaptations. Currently, I'm focused on Few-Shot Domain Adaptations in Vision-Language Models and MLOps for Neural Network deployment.
 
-I currently hold the role of Software Engineering Lead and am a founding member of RoastPic, a Computer Vision Startup established by [Prof. William Ristenpart](https://coffeecenter.ucdavis.edu/people/william-ristenpart). And concurrently Research Assistant at UC Davis Coffee Center with Prof. Ristenpart. Moreover, I have gained valuable experience as a research assistant in the field of Multi-Modality Learning in Medical Imaging, working under the guidance of [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html).
+I work as a Research Assistant with [Prof. Jiawei Zhang](http://jiaweizhang.net/) on Vision-Language Models and intern at a Computer Vision Startup specializing in Coffee Analytics, led by [Prof. William Ristenpart](https://coffeecenter.ucdavis.edu/people/william-ristenpart). I've also gained valuable experience in Multi-Modality Learning in Medical Imaging as a research assistant under [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html).
 
-Beyond my professional life, I achieved Q certification in 2020, allowing me to officially assess the cup quality of Specialty Coffee worldwide. I have also been fortunate to participate in captivating classes brought by [Prof. Omnia El Shakry](https://www.omniaelshakry.com/), which have fueled my curiosity while honing my ability to deep dive into original theses.
+Outside of academia, I earned my Q certification in 2020, officially recognizing my ability to assess Specialty Coffee quality worldwide. I've had the privilege of taking enlightening courses with [Prof. Omnia El Shakry](https://www.omniaelshakry.com/), which have nurtured my curiosity and refined my skills in delving into original research.
 
 
 ### Publications and Technical Reports
