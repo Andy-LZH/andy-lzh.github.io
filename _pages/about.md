@@ -16,7 +16,7 @@ Outside of my research life, I earned my Q certification in 2020, officially rec
 
 
 ### Publications and Technical Reports
-* **[CLIPath: Fine-tune CLIP with Visual Feature Fusion for Pathology Image Analysis Towards Minimizing Data Collection Efforts](https://andy-lzh.github.io/files/ICCVW23_CVAMD_CLIPath.pdf)**  
+* **[CLIPath: Fine-tune CLIP with Visual Feature Fusion for Pathology Image Analysis Towards Minimizing Data Collection Efforts](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Lai_CLIPath_Fine-Tune_CLIP_with_Visual_Feature_Fusion_for_Pathology_Image_ICCVW_2023_paper.pdf)**  
  Zhengfeng Lai, **Zhuoheng Li**, Luca Cerny Oliveira, Joohi Chauhan, Brittany N. Dugger, Chen-Nee Chuah; 
  *ICCV 2023 Workshop on Computer Vision for Automated Medical Diagnosis*
 
