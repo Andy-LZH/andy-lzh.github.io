@@ -15,6 +15,10 @@ I have worked as a Research Assistant with [Prof. Jiawei Zhang](http://jiaweizha
 Beyond my research, I earned my Q certification in 2020, which recognizes my ability to assess Specialty Coffee quality worldwide. The stereotypical combination of coffee and the outdoors (and the Boulder stereotype) has also influenced me, and I have embraced outdoor activities a lot more in recent years. I now spend a lot of time in the mountains, hiking, skiing, and photographing.
 
 ### Publications and Technical Reports
+* **[A Survey of AI-Generated Video Evaluation](https://arxiv.org/pdf/2410.19884)**  
+Xiao Liu, Xinhao Xiang, Zizhong Li, Yongheng Wang, **Zhuoheng Li**, Zhuosheng Liu, Weidi Zhang, Weiqi Ye, Jiawei Zhang
+*Under Review*
+
 * **[Parameter-Efficient Fine-Tuning for Vision-Language Models](https://andy-lzh.github.io/files/PEFT_CLIP.pdf)**  
 **Zhuoheng Li**, Zhuosheng Liu, Jiawei Zhang; 
  *Under Review*
