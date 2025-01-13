@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student at CU Boulder in the IVC Group, advised by [Prof. Danna Gurari](https://dannagurari.colorado.edu/). My research focuses on the intersections of Computer Vision and Multi-Modal Learning, with applications in assistive technologies and coffee analytics.
+I'm a first-year PhD student at CU Boulder in the IVC Group, advised by [Prof. Danna Gurari](https://dannagurari.colorado.edu/). My research focuses on Computer Vision and Multi-Modal Learning, and I'm working on expand visual grounding to video and 3D spatial spaces to improve accessibility for people with visual impairments.
 
-I have worked as a Research Assistant with [Prof. Jiawei Zhang](http://jiaweizhang.net/) on parameter-efficient finetuning in Vision-language models and gained experience in Multimodal Learning in breast cancer classification and segmentation while working as a research assistant under [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html). Additionally, I was a founding member of [RoastPic](https://www.roastpic.com/) with [Prof. William Ristenpart](https://coffeecenter.ucdavis.edu/people/william-ristenpart), focusing on morphology and color analysis of coffee in LAB spaces.
+Before I came to boulder, I co-founded [RoastPic](https://www.roastpic.com/) with [Prof. William Ristenpart](https://coffeecenter.ucdavis.edu/people/william-ristenpart) and our [wonderful team](https://www.roastpic.com/about-us). And I'm very proud that we brought the first Mobile App that able to do roast level analysis of coffee beans. I also had a great time in Davis where [Prof. Jiawei Zhang](http://jiaweizhang.net/) showed me what research was like and also advised me in research in Vision-language models and Video Quality.
 
-Beyond my research, I earned my Q certification in 2020, which recognizes my ability to assess Specialty Coffee quality worldwide. The stereotypical combination of coffee and the outdoors (and the Boulder stereotype) has also influenced me, and I have embraced outdoor activities a lot more in recent years. I now spend a lot of time in the mountains, hiking, skiing, and photographing.
+Beyond my research, I earned my Q certification in 2020, which recognize the ability to assess quality of specialty coffee worldwide. I'm also pretty boulder sterotype where I spent a lot of time in the mountains hiking and skiing. 
 
 ### Publications and Technical Reports
 * **[A Survey of AI-Generated Video Evaluation](https://arxiv.org/pdf/2410.19884)**  
