@@ -24,12 +24,8 @@ Xiao Liu, Xinhao Xiang, Zizhong Li, Yongheng Wang, **Zhuoheng Li**, Zhuosheng Li
 
 * **[Parameter-Efficient Fine-Tuning for Vision-Language Models](https://andy-lzh.github.io/files/PEFT_CLIP.pdf)**  
 **Zhuoheng Li**, Zhuosheng Liu, Jiawei Zhang; 
- *Under Review*
+ *Technical Report*
 
 * **[CLIPath: Fine-tune CLIP with Visual Feature Fusion for Pathology Image Analysis Towards Minimizing Data Collection Efforts](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Lai_CLIPath_Fine-Tune_CLIP_with_Visual_Feature_Fusion_for_Pathology_Image_ICCVW_2023_paper.pdf)**  
  Zhengfeng Lai, **Zhuoheng Li**, Luca Cerny Oliveira, Joohi Chauhan, Brittany N. Dugger, Chen-Nee Chuah; 
  *ICCV 2023 Workshop on Computer Vision for Automated Medical Diagnosis*
-
-* **[DeepCoffee : Coffee Flavors Prediction Using Deep Learning](https://andy-lzh.github.io/files/ECS_289G_Final_Paper.pdf)**  
- Manisha Sri Suresh, **Zhuoheng Li**; 
-  *Technical report for ECS 289G Final Project*
