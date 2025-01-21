@@ -15,6 +15,9 @@ Before I came to boulder, I co-founded [RoastPic](https://www.roastpic.com/) wit
 Beyond my research, I earned my Q certification in 2020, which recognize the ability to assess quality of specialty coffee worldwide. I'm also pretty boulder sterotype where I spent a lot of time in the mountains hiking and skiing. 
 
 ### Publications and Technical Reports
+* **[Accounting for Focus Ambiguity in Visual Questions](https://arxiv.org/abs/2501.02201)**  
+Chongyan Chen*, Yu-Yun Tseng*, **{Zhuoheng Li*}**, Anush Venkatesh, Danna Gurari
+*Under Review*
 * **[A Survey of AI-Generated Video Evaluation](https://arxiv.org/pdf/2410.19884)**  
 Xiao Liu, Xinhao Xiang, Zizhong Li, Yongheng Wang, **Zhuoheng Li**, Zhuosheng Liu, Weidi Zhang, Weiqi Ye, Jiawei Zhang
 *Under Review*
