@@ -16,7 +16,7 @@ Beyond my research, I earned my Q certification in 2020, which recognize the abi
 
 ### Publications and Technical Reports
 * **[Accounting for Focus Ambiguity in Visual Questions](https://arxiv.org/abs/2501.02201)**  
-Chongyan Chen\*<sup>*</sup>*, Yu-Yun Tseng*<sup>*</sup>*, **Zhuoheng Li<sup>*</sup>**, Anush Venkatesh, Danna Gurari
+Chongyan Chen*<sup>*</sup>*, Yu-Yun Tseng*<sup>*</sup>*, **Zhuoheng Li<sup>*</sup>**, Anush Venkatesh, Danna Gurari
 *Under Review*
 * **[A Survey of AI-Generated Video Evaluation](https://arxiv.org/pdf/2410.19884)**  
 Xiao Liu, Xinhao Xiang, Zizhong Li, Yongheng Wang, **Zhuoheng Li**, Zhuosheng Liu, Weidi Zhang, Weiqi Ye, Jiawei Zhang
