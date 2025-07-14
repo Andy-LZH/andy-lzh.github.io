@@ -21,7 +21,7 @@ Chongyan Chen\*, Yu-Yun Tseng\*, **Zhuoheng Li\***, Anush Venkatesh, Danna Gurar
 *ICCV 2025*
 
 * **[Pathogenic potential prediction of Vibrio parahaemolyticus by using pangenome data with high performance machine learning algorithms](https://www.biorxiv.org/content/10.1101/2025.04.08.647818v1.full.pdf)**  
- Zhuosheng Liu, **Zhuoheng Li**, Jiawei Zhang, C Titus Brown, Luxin Wang
+Zhuosheng Liu, **Zhuoheng Li**, Jiawei Zhang, C Titus Brown, Luxin Wang
 *bioRxiv Preprint*
 
 * **[A Survey of AI-Generated Video Evaluation](https://arxiv.org/pdf/2410.19884)**  
@@ -30,7 +30,7 @@ Xiao Liu, Xinhao Xiang, Zizhong Li, Yongheng Wang, **Zhuoheng Li**, Zhuosheng Li
 
 * **[Parameter-Efficient Fine-Tuning for Vision-Language Models](https://andy-lzh.github.io/files/PEFT_CLIP.pdf)**  
 **Zhuoheng Li**, Zhuosheng Liu, Jiawei Zhang; 
- *Technical Report*
+*Technical Report*
 
 * **[CLIPath: Fine-tune CLIP with Visual Feature Fusion for Pathology Image Analysis Towards Minimizing Data Collection Efforts](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Lai_CLIPath_Fine-Tune_CLIP_with_Visual_Feature_Fusion_for_Pathology_Image_ICCVW_2023_paper.pdf)**  
  Zhengfeng Lai, **Zhuoheng Li**, Luca Cerny Oliveira, Joohi Chauhan, Brittany N. Dugger, Chen-Nee Chuah; 
