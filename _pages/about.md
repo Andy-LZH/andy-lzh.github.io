@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student at CU Boulder in the IVC Group, advised by [Prof. Danna Gurari](https://dannagurari.colorado.edu/). My research focuses on Computer Vision and Multi-Modal Learning, and I'm working on expand visual grounding to video and 3D spatial spaces to improve accessibility for people with visual impairments.
+I'm a first-year PhD student at the University of Colorado Boulder in the Image and Video Computing Group, advised by [Prof. Danna Gurari](https://dannagurari.colorado.edu/). My research focuses on building vision-language models that understand hierarchical object compositions, with applications in visual grounding and accessibility.
 
-Before I came to boulder, I co-founded [RoastPic](https://www.roastpic.com/) with [Prof. William Ristenpart](https://coffeecenter.ucdavis.edu/people/william-ristenpart) and our [wonderful team](https://www.roastpic.com/about-us). And I'm very proud that we brought the first Mobile App that able to do roast level analysis of coffee beans. I also had a great time in Davis where [Prof. Jiawei Zhang](http://jiaweizhang.net/) showed me what research was like and also advised me in research in Vision-language models and Video Quality.
+Before coming to Boulder, I earned my bachelor's degree from UC Davis, where I co-founded [RoastPic](https://www.roastpic.com/) with [Prof. William Ristenpart](https://coffeecenter.ucdavis.edu/people/william-ristenpart) and our [wonderful team](https://www.roastpic.com/about-us) at the UC Davis Coffee Center. I also had the chance to work with [Prof. Jiawei Zhang](http://jiaweizhang.net/), who introduced me to research in vision-language modeling and video quality assessment.
 
-Beyond my research, I earned my Q certification in 2020, which recognize the ability to assess quality of specialty coffee worldwide. I'm also pretty boulder sterotype where I spent a lot of time in the mountains hiking and skiing. 
+Outside of research, I’m really into coffee and the outdoors. I’m a certified Q Arabica Grader and enjoy exploring specialty coffee around the world. If I haven’t replied in a while, I’m probably somewhere in the mountains.
+
 
 ### Publications and Technical Reports
 * **[Accounting for Focus Ambiguity in Visual Questions](https://arxiv.org/abs/2501.02201)**  
 Chongyan Chen\*, Yu-Yun Tseng\*, **Zhuoheng Li\***, Anush Venkatesh, Danna Gurari
-*Under Review*
+*ICCV 2025*
 * **[A Survey of AI-Generated Video Evaluation](https://arxiv.org/pdf/2410.19884)**  
 Xiao Liu, Xinhao Xiang, Zizhong Li, Yongheng Wang, **Zhuoheng Li**, Zhuosheng Liu, Weidi Zhang, Weiqi Ye, Jiawei Zhang
 *Under Review*
