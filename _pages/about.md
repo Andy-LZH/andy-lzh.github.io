@@ -21,7 +21,7 @@ Chongyan Chen\*, Yu-Yun Tseng\*, **Zhuoheng Li\***, Anush Venkatesh, Danna Gurar
 *ICCV 2025*
 
 * **[Pathogenic potential prediction of Vibrio parahaemolyticus by using pangenome data with high performance machine learning algorithms](https://www.biorxiv.org/content/10.1101/2025.04.08.647818v1.full.pdf)**
-  Zhuosheng Liu, **Zhuoheng Li**, Jiawei Zhang, C Titus Brown, Luxin Wang
+Zhuosheng Liu, **Zhuoheng Li**, Jiawei Zhang, C Titus Brown, Luxin Wang
 *bioRxiv Preprint*
 
 * **[A Survey of AI-Generated Video Evaluation](https://arxiv.org/pdf/2410.19884)**  
