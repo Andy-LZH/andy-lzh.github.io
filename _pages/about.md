@@ -17,7 +17,7 @@ Outside of research, I’m really into coffee and the outdoors. I’m a certifie
 
 ### Publications and Technical Reports
 * **[Accounting for Focus Ambiguity in Visual Questions](https://arxiv.org/abs/2501.02201)**  
-  Chongyan Chen\*, Yu-Yun Tseng\*, **Zhuoheng Li\***, Anush Venkatesh, Danna Gurari  
+  Chongyan Chen\*, Yu-Yun Tseng\*, **Zhuoheng Li**, Anush Venkatesh, Danna Gurari  
   *ICCV 2025*  
 
 * **[Pathogenic potential prediction of Vibrio parahaemolyticus by using pangenome data with high performance machine learning algorithms](https://www.biorxiv.org/content/10.1101/2025.04.08.647818v1.full.pdf)**  
