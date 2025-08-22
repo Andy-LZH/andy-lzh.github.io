@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a first-year PhD student at the University of Colorado Boulder in the Image and Video Computing Group, advised by [Prof. Danna Gurari](https://dannagurari.colorado.edu/). My research focuses on building vision-language models that understand hierarchical object compositions, with applications in visual grounding and accessibility.
 
-Before coming to Boulder, I earned my bachelor's degree from UC Davis, where I co-founded [RoastPic](https://www.roastpic.com/) with [Prof. William Ristenpart](https://coffeecenter.ucdavis.edu/people/william-ristenpart) and our [wonderful team](https://www.roastpic.com/about-us) at the UC Davis Coffee Center. I also had the chance to work with [Prof. Jiawei Zhang](http://jiaweizhang.net/), who introduced me to research in vision-language modeling and video quality assessment.
+Before coming to Boulder, I earned my bachelor's degree from UC Davis, where I co-founded [RoastPic](https://www.roastpic.com/) with [Prof. William Ristenpart](https://coffeecenter.ucdavis.edu/people/william-ristenpart) and our [wonderful team](https://www.roastpic.com/about-us) at the UC Davis Coffee Center. I also had the chance to work with [Prof. Jiawei Zhang](http://jiaweizhang.net/), who introduced me to research in vision-language models and video quality assessment.
 
 Outside of research, I’m really into coffee and the outdoors. I’m a certified Q Arabica Grader and enjoy exploring specialty coffee around the world. If I haven’t replied in a while, I’m probably somewhere in the mountains.
 
